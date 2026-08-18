@@ -1,4 +1,4 @@
-# esp32-env
+# esp32-environment-monitor
 
 A lightweight, opinionated development environment and collection of helpers for ESP32 projects (C++). This repository contains documentation, example workflows, and recommended commands to get started building, flashing, and debugging ESP32 firmware using common toolchains: Espressif ESP‑IDF, Arduino-ESP32, PlatformIO, and Docker-based workflows.
 
